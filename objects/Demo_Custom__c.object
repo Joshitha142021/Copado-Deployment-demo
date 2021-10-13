@@ -163,7 +163,7 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    
+
     <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
@@ -172,10 +172,11 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    
     <fields>
-        <fullName>Field_Two__c</fullName>
+        <fullName>Field_Three__c</fullName>
         <externalId>false</externalId>
-        <label>Field Two</label>
+        <label>Field Three</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
